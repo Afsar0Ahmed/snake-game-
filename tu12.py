@@ -1,0 +1,11 @@
+i = 0
+while(true):
+
+   if i+1<5:
+    i=i+1
+       continue
+         print(i+1,end=" ")
+ if (i==45):
+        break
+        i=i+1
+

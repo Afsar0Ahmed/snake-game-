@@ -1,0 +1,7 @@
+f = open("afsar.txt")
+# print(f.tell())
+print(f.readline())
+f.seek(0)
+# print(f.tell())
+print(f.readline())
+f.close()

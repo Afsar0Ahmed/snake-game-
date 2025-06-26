@@ -1,0 +1,2 @@
+ class computer:
+     def funtion
